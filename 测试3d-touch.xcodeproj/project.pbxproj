@@ -15,6 +15,14 @@
 		C292F3D11CC9F46200FB1C88 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C292F3CF1CC9F46200FB1C88 /* LaunchScreen.storyboard */; };
 		C292F3DC1CC9F46200FB1C88 /* __3d_touchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C292F3DB1CC9F46200FB1C88 /* __3d_touchTests.m */; };
 		C292F3E71CC9F46200FB1C88 /* __3d_touchUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C292F3E61CC9F46200FB1C88 /* __3d_touchUITests.m */; };
+		C292F3F61CC9F4B300FB1C88 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C292F3F51CC9F4B300FB1C88 /* SecondViewController.m */; };
+		C292F3F91CC9F58E00FB1C88 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C292F3F81CC9F58E00FB1C88 /* ThirdViewController.m */; };
+		C292F3FC1CC9F5F000FB1C88 /* FourthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C292F3FB1CC9F5F000FB1C88 /* FourthViewController.m */; };
+		C292F4011CC9F8A800FB1C88 /* ScanQR1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C292F3FD1CC9F8A800FB1C88 /* ScanQR1@2x.png */; };
+		C292F4021CC9F8A800FB1C88 /* ScanQR2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C292F3FE1CC9F8A800FB1C88 /* ScanQR2@2x.png */; };
+		C292F4031CC9F8A800FB1C88 /* ScanQR3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C292F3FF1CC9F8A800FB1C88 /* ScanQR3@2x.png */; };
+		C292F4041CC9F8A800FB1C88 /* ScanQR4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C292F4001CC9F8A800FB1C88 /* ScanQR4@2x.png */; };
+		C292F4071CC9F98A00FB1C88 /* MyTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C292F4061CC9F98A00FB1C88 /* MyTabBarViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +59,18 @@
 		C292F3E21CC9F46200FB1C88 /* 测试3d-touchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "测试3d-touchUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C292F3E61CC9F46200FB1C88 /* __3d_touchUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = __3d_touchUITests.m; sourceTree = "<group>"; };
 		C292F3E81CC9F46200FB1C88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C292F3F41CC9F4B300FB1C88 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		C292F3F51CC9F4B300FB1C88 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		C292F3F71CC9F58E00FB1C88 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		C292F3F81CC9F58E00FB1C88 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		C292F3FA1CC9F5F000FB1C88 /* FourthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourthViewController.h; sourceTree = "<group>"; };
+		C292F3FB1CC9F5F000FB1C88 /* FourthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourthViewController.m; sourceTree = "<group>"; };
+		C292F3FD1CC9F8A800FB1C88 /* ScanQR1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ScanQR1@2x.png"; sourceTree = "<group>"; };
+		C292F3FE1CC9F8A800FB1C88 /* ScanQR2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ScanQR2@2x.png"; sourceTree = "<group>"; };
+		C292F3FF1CC9F8A800FB1C88 /* ScanQR3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ScanQR3@2x.png"; sourceTree = "<group>"; };
+		C292F4001CC9F8A800FB1C88 /* ScanQR4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ScanQR4@2x.png"; sourceTree = "<group>"; };
+		C292F4051CC9F98A00FB1C88 /* MyTabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyTabBarViewController.h; sourceTree = "<group>"; };
+		C292F4061CC9F98A00FB1C88 /* MyTabBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyTabBarViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,8 +123,20 @@
 			children = (
 				C292F3C41CC9F46100FB1C88 /* AppDelegate.h */,
 				C292F3C51CC9F46100FB1C88 /* AppDelegate.m */,
+				C292F4051CC9F98A00FB1C88 /* MyTabBarViewController.h */,
+				C292F4061CC9F98A00FB1C88 /* MyTabBarViewController.m */,
 				C292F3C71CC9F46100FB1C88 /* ViewController.h */,
 				C292F3C81CC9F46100FB1C88 /* ViewController.m */,
+				C292F3F41CC9F4B300FB1C88 /* SecondViewController.h */,
+				C292F3F51CC9F4B300FB1C88 /* SecondViewController.m */,
+				C292F3F71CC9F58E00FB1C88 /* ThirdViewController.h */,
+				C292F3F81CC9F58E00FB1C88 /* ThirdViewController.m */,
+				C292F3FA1CC9F5F000FB1C88 /* FourthViewController.h */,
+				C292F3FB1CC9F5F000FB1C88 /* FourthViewController.m */,
+				C292F3FD1CC9F8A800FB1C88 /* ScanQR1@2x.png */,
+				C292F3FE1CC9F8A800FB1C88 /* ScanQR2@2x.png */,
+				C292F3FF1CC9F8A800FB1C88 /* ScanQR3@2x.png */,
+				C292F4001CC9F8A800FB1C88 /* ScanQR4@2x.png */,
 				C292F3CA1CC9F46100FB1C88 /* Main.storyboard */,
 				C292F3CD1CC9F46200FB1C88 /* Assets.xcassets */,
 				C292F3CF1CC9F46200FB1C88 /* LaunchScreen.storyboard */,
@@ -246,9 +278,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C292F4031CC9F8A800FB1C88 /* ScanQR3@2x.png in Resources */,
+				C292F4011CC9F8A800FB1C88 /* ScanQR1@2x.png in Resources */,
+				C292F4041CC9F8A800FB1C88 /* ScanQR4@2x.png in Resources */,
 				C292F3D11CC9F46200FB1C88 /* LaunchScreen.storyboard in Resources */,
 				C292F3CE1CC9F46200FB1C88 /* Assets.xcassets in Resources */,
 				C292F3CC1CC9F46100FB1C88 /* Main.storyboard in Resources */,
+				C292F4021CC9F8A800FB1C88 /* ScanQR2@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,6 +309,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C292F4071CC9F98A00FB1C88 /* MyTabBarViewController.m in Sources */,
+				C292F3FC1CC9F5F000FB1C88 /* FourthViewController.m in Sources */,
+				C292F3F61CC9F4B300FB1C88 /* SecondViewController.m in Sources */,
+				C292F3F91CC9F58E00FB1C88 /* ThirdViewController.m in Sources */,
 				C292F3C91CC9F46100FB1C88 /* ViewController.m in Sources */,
 				C292F3C61CC9F46100FB1C88 /* AppDelegate.m in Sources */,
 				C292F3C31CC9F46100FB1C88 /* main.m in Sources */,
@@ -418,10 +458,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "测试3d-touch/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "-d-touch.--3d-touch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -429,10 +472,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "测试3d-touch/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "-d-touch.--3d-touch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -501,6 +547,7 @@
 				C292F3ED1CC9F46200FB1C88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C292F3EE1CC9F46200FB1C88 /* Build configuration list for PBXNativeTarget "测试3d-touchTests" */ = {
 			isa = XCConfigurationList;
@@ -509,6 +556,7 @@
 				C292F3F01CC9F46200FB1C88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C292F3F11CC9F46200FB1C88 /* Build configuration list for PBXNativeTarget "测试3d-touchUITests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +565,7 @@
 				C292F3F31CC9F46200FB1C88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
